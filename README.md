@@ -28,7 +28,7 @@
 
 ## - Estrutura do projeto/site
 
-![image](https://github.com/lucaskkergg/Feira_de_Solucoes_Grupo_Delta/blob/master/git/2.png)
+![image](https://github.com/lucaskkergg/Feira_de_Solucoes_Grupo_Delta/blob/master/git/3.png)
 
 ## - Link do vídeo:
 
