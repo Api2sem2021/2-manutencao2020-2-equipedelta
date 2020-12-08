@@ -5,6 +5,8 @@
 
 ## - Projeto: Sistema de controle de ferramentaria.
 
+![image](https://github.com/lucaskkergg/Feira_de_Solucoes_Grupo_Delta/blob/master/git/5.png)
+
 ## - Integrantes
 * Christian Arilio Bezerra de Queiroz;
 * Karen Roithmeier Rodrigues;
@@ -16,6 +18,10 @@
 ## - Estrutura/organização de funções
 
 ![image](https://github.com/lucaskkergg/Feira_de_Solucoes_Grupo_Delta/blob/master/git/22.png)
+
+## - Esquematização do projeto
+
+![image](https://github.com/lucaskkergg/Feira_de_Solucoes_Grupo_Delta/blob/master/git/4.png)
 
 ## - Linkedin 
 
